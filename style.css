@@ -407,7 +407,7 @@ footer p {
 
     /* photo */
     #photo ul li{
-        width: 96%;
+        width: 100%;
     }
 
     #photo img:hover{
