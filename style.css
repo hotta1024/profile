@@ -82,6 +82,7 @@ li{
 }
 
 #header .folder a{
+
     color: #24292e;
     transition:  all 0.3s;
 }
@@ -346,6 +347,17 @@ footer p {
 @media screen and (max-width:680px){
 
 
+    p{
+        font-size: 0.8rem;
+
+    }
+
+    li{
+        font-size: 0.9rem;
+    }
+
+
+
 
     .sec-title{
         margin-bottom: 40px;
@@ -354,6 +366,9 @@ footer p {
     .wrapper{
         padding: 4% 3%;
     }
+
+
+
 
 
     .site-title{
@@ -380,12 +395,9 @@ footer p {
     #header .folder li{
         justify-content: space-around;
         margin-left:0 5px 0 10px;
-    }
-
-
-    .folder li a{
         font-size: 0.8rem;
     }
+
 
     .folder .icon{
         width: 20px;
@@ -407,6 +419,18 @@ footer p {
         height: auto;
 
     }
+
+
+    /* about  */
+
+
+
+
+    #about ul li{
+        font-size: 0.9rem;
+        padding: 0 4%;
+    }
+
 
 
     /* photo */
